@@ -1,10 +1,10 @@
-# 🐍 Simple CMS (`cms-lab`) - Python Flask & MongoDB
+#  Simple CMS (`cms-lab`) - Python Flask & MongoDB
 
 A server-side rendered Blog Content Management System built with **Python, Flask, PyMongo, and Jinja2 Templates** according to the **Backend Development Lab Examination** specifications.
 
 ---
 
-## 📁 Exact Directory Structure
+## Exact Directory Structure
 
 ```text
 cms-lab/
@@ -19,7 +19,7 @@ cms-lab/
 
 ---
 
-## ⚡ How to Open & Run in VS Code
+##  How to Open & Run in VS Code
 
 ### Step 1: Open in VS Code
 1. Open **Visual Studio Code**.
